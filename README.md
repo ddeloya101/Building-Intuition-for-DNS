@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/CtGfsq8.png" alt="osTicket logo"/>
 </p>
 
-In this lab I will be experimenting with DNS. This lab will help us have a better understanding of DNS.<br />
+In this lab I will be experimenting with DNS. This lab can help people have a better understanding of DNS (Domain Name System).<br />
 
 <h2>Environments and Technologies Used</h2>
 
